@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+https://putain-de-presentation.herokuapp.com/users/new
+
